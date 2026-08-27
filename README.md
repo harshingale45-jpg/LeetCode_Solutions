@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0706-design-hashmap](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0706-design-hashmap) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
+## Greedy
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
