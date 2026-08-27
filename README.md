@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0706-design-hashmap) |
 ## Design
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
