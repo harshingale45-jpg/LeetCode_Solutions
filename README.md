@@ -84,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Greedy
 |  |
 | ------- |
