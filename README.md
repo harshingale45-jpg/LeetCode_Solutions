@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0706-design-hashmap) |
+| [0835-image-overlap](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1872-stone-game-viii](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
