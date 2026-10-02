@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshingale45-jpg/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
